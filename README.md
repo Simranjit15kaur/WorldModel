@@ -128,7 +128,6 @@ README.md
 
 ## References
 
-- [VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/abs/2104.10157)
 - [VQ-VAE: Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 - [Convolutional LSTM Network](https://arxiv.org/abs/1506.04214)
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
